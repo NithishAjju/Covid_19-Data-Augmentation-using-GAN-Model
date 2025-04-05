@@ -40,10 +40,10 @@ Follow these steps to execute the project:
 4) Classify COVID-19: Train and evaluate the CNN model using CNN_COVID_Classification.py.
 
 # Recommended Sequence:
-model_GAN3.py
-COVID_GAN3.py
-Client_COVID.py
-Server_COVID.py
+model_GAN3.py,
+COVID_GAN3.py,
+Client_COVID.py,
+Server_COVID.py,
 CNN_COVID_Classification.py
 
 # Notes
